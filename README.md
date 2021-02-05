@@ -1,3 +1,6 @@
 ### My stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlukasik-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+Top Languages include only statistics from my own (doesn't include forks) public repos.  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlukasik-dev&count_private=true)  
+![mlukasik's github stats](https://github-readme-stats.vercel.app/api?username=mlukasik-dev&count_private=true)
